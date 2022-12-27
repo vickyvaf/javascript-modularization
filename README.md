@@ -4,4 +4,4 @@
 2. CommonJS, AMD + Require.js
 3. ES Modules
 
-Show more on other branch
+Show more on other branches
