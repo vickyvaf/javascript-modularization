@@ -1,5 +1,4 @@
-## JavaScript Modularization
+## Inline Script Tags
 
-1. Inline Script
-2. CommonJS, AMD + Require.js
-3. ES Modules
+1. Must be sorted
+2. If not sorted the code will not run or error
